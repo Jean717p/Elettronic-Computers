@@ -1,0 +1,1 @@
+Per l'esercizio 3, si assuma che l’interrupt dalla porta A sia connesso al canale 6 del PIC 8259.
