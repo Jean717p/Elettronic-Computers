@@ -3,4 +3,4 @@ Laboratories of polito's Elettronic Computers (Calcolatori Elettronici) 2014/201
 
 
 This is a collection of solved exercises named by "Es #ExNumber_Date".
-These exercises are concern Assembly x86 programming language and theory, including management of IVT and communication with 8255 and 8259 peripherals.
+These exercises concern Assembly x86 programming language and theory, including management of IVT and communication with 8255 and 8259 peripherals.
